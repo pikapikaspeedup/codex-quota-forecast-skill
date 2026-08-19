@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Quota Forecast"
+  short_description: "Full Codex quota, Credits, tokens and weekly forecast"
+  default_prompt: "Use $codex-quota-forecast to return my complete Codex Meter report with daily details and weekly forecast."
